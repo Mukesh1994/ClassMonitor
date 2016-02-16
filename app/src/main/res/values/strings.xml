@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClassMonitor</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">TimeTable</string>
+    <string name="title_activity_add_class">AddClassActivity</string>
+    <string name="title_activity_showmap">Map</string>
+    <string name="title_activity_showclass">showclass</string>
+    <string name="action_settings">Settings</string>
+</resources>
